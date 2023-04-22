@@ -25,5 +25,12 @@ To guarantee the precision and uniformity of the data, I leveraged Power Query E
 - Implemented Time Intelligence Formulas, such as Performance To-Date and Previous Period formulas, to facilitate common time comparisons.
 - Deployed different DAX measures, including Related, Calculate, and Iterate function (Sumx).
 
+## Data Modelling
+To establish meaningful connections between the tables in the dataset, I conducted a thorough analysis of the primary and foreign keys in each table. Although Power BI generated some relationships automatically, I detected some missing relationships. To address this, I established a relationship between the primary key "DATE" in the "Calendar" table and the corresponding key "DATE" in the "Transactions" table.
+
+Throughout this process, I verified the relationship between the "Region" table and the "Transactions" table. However, I noticed that there was no primary key to link the "Region" and "Transactions" tables. To remedy this issue, I employed a "Snowflake Schema" to link the "Region" and "Stores" tables. Additionally, I ensured that all relationships followed a "One to Many Cardinality" and that all filters were "One-Way," which meant that there were no "Two-Way Filters."
+
+![](Data_modelling_snapshot.JPG)
+
 
 
