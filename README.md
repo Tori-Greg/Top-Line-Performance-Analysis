@@ -21,7 +21,7 @@ For this project, I utilized a dataset from an Udemy course project called **Mav
 To guarantee the precision and uniformity of the data, I leveraged Power Query Editor in Power BI to perform data transformation and cleansing tasks. The following are some of the measures I took:
 - Named all tables and confirmed that headers were appropriately promoted.
 - Checked and corrected all data types.
-- ncorporated calculated columns into tables where appropriate.
+- Incorporated calculated columns into tables where appropriate.
 - Implemented Time Intelligence Formulas, such as Performance To-Date and Previous Period formulas, to facilitate common time comparisons.
 - Deployed different DAX measures, including Related, Calculate, and Iterate function (Sumx).
 
