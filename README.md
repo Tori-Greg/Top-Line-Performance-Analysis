@@ -32,5 +32,32 @@ Throughout this process, I verified the relationship between the "Region" table 
 
 ![](Data_modelling_snapshot.JPG)
 
+## Dashboard
+
+![](Maven_Market_Final_Snapshot.JPG)
+
+## Analysis
+After analyzing the data using Power BI, the following insights were obtained:
+- The revenue experienced a substantial increase of 112% between 1997 and 1998, primarily due to the strategic expansion of the business into Mexico and Canada.
+- However, the sales volume in Canada was low, accounting for only 8.98% of the total business, while the US generated the highest revenue with 51.9% and Mexico with 39.94%.
+- The increase in revenue also had a positive impact on gross profit. However, growing costs, as seen in the "YOY Cost Trend," led to a decrease in gross margin from 69.67% in 1997 to 53.63% in 1998.
+- In terms of brand profitability, all brands contributed to the total gross profit. The highest profitability was driven by "Hermanos" at 3.02%, followed by "Ebony" at 2.85%, and "Tri State" and "High Top" at 2.78% each.
+- On the other hand, the bottom three performing brands were "King" at 0.02%, "Toretti" at 0.03%, and "Symphony" at 0.04%. Hence, It is recommended that strategic decisions should be made on the discontinuation of these brands.
+
+## Conclusion
+Based on the analysis, it can be concluded that the expansion into Mexico and Canada was a major contributing factor to the 112% growth in revenue. However, the low sales volume in Canada indicates a need to improve business presence in that country. Cost accounted for almost half of the revenue in both 1997 and 1998, but gross profit margin declined significantly from 69.67% in 1997 to 53.63% in 1998 due to the rising cost trend. The brand "Hermanos" showed the highest profitability, while the brands "King", "Toretti", and "Symphony" were the least profitable and may need to be discontinued. The highest performing country was the USA with 479K cases, while Canada was the least performing country. These insights can inform strategic decisions for improving business performance and profitability.
+
+**Based on the insights gained from the data analysis, the following recommendations are suggested:**
+- Country-specific promotional activities can be implemented in Canada to boost sales volume, as it currently accounts for a small percentage of total business.
+- Cost control measures should be adopted to optimize purchasing and reduce costs as growing costs resulted in a decline in gross profit margin in 1998.
+- Strategic decisions such as changing marketing strategies can be implemented to improve the profitability of the bottom-performing brands. This is crucial as the top-performing brand accounted for a significantly higher percentage of total gross profit compared to the bottom-performing brands. Discontinuing underperforming brands can also be considered a strategic decision.
+- Conduct further analysis to identify the reasons behind the low sales volume in Canada and develop a targeted action plan to improve business presence in the country. This could include market research to understand the needs and preferences of Canadian customers, as well as collaboration with local distributors and retailers.
+- Explore ways to optimize pricing strategies in order to improve gross profit margins. This could include conducting market research to understand price sensitivity and elasticity of demand, as well as developing dynamic pricing models that take into account factors such as seasonality, product lifecycle, and competitor pricing.
+- Establish a regular reporting and monitoring system to track key performance metrics such as revenue, costs, gross profit margins, and brand profitability. This will help identify areas of improvement and ensure that the business stays on track towards its goals.
+
+
+
+
+
 
 
