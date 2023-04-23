@@ -1,4 +1,4 @@
-# Maven Market Analysis
+# Maven Market Top Line Performance Analysis
 
 ![](Image_1.webp)
 
@@ -37,7 +37,7 @@ Throughout this process, I verified the relationship between the "Region" table 
 ![](Maven_Market_Final_Snapshot.JPG)
 
 ## Analysis
-After analyzing the data using Power BI, the following insights were obtained:
+**After analyzing the data using Power BI, the following insights were obtained:**
 - The revenue experienced a substantial increase of 112% between 1997 and 1998, primarily due to the strategic expansion of the business into Mexico and Canada.
 - However, the sales volume in Canada was low, accounting for only 8.98% of the total business, while the US generated the highest revenue with 51.9% and Mexico with 39.94%.
 - The increase in revenue also had a positive impact on gross profit. However, growing costs, as seen in the "YOY Cost Trend," led to a decrease in gross margin from 69.67% in 1997 to 53.63% in 1998.
@@ -47,7 +47,8 @@ After analyzing the data using Power BI, the following insights were obtained:
 ## Conclusion
 Based on the analysis, it can be concluded that the expansion into Mexico and Canada was a major contributing factor to the 112% growth in revenue. However, the low sales volume in Canada indicates a need to improve business presence in that country. Cost accounted for almost half of the revenue in both 1997 and 1998, but gross profit margin declined significantly from 69.67% in 1997 to 53.63% in 1998 due to the rising cost trend. The brand "Hermanos" showed the highest profitability, while the brands "King", "Toretti", and "Symphony" were the least profitable and may need to be discontinued. The highest performing country was the USA with 479K cases, while Canada was the least performing country. These insights can inform strategic decisions for improving business performance and profitability.
 
-**Based on the insights gained from the data analysis, the following recommendations are suggested:**
+## Recommendation
+**Based on the insights gained from the analysis, the following recommendations are suggested:**
 - Country-specific promotional activities can be implemented in Canada to boost sales volume, as it currently accounts for a small percentage of total business.
 - Cost control measures should be adopted to optimize purchasing and reduce costs as growing costs resulted in a decline in gross profit margin in 1998.
 - Strategic decisions such as changing marketing strategies can be implemented to improve the profitability of the bottom-performing brands. This is crucial as the top-performing brand accounted for a significantly higher percentage of total gross profit compared to the bottom-performing brands. Discontinuing underperforming brands can also be considered a strategic decision.
