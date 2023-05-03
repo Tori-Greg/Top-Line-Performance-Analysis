@@ -36,6 +36,8 @@ Throughout this process, I verified the relationship between the "Region" table 
 
 ![](Maven_Market_Final_Snapshot.JPG)
 
+_For dashboard interaction click [here](https://app.powerbi.com/links/JtuoVZDEck?ctid=f2c35211-7dad-42d6-b895-25d82fc1f0a2&pbi_source=linkShare)_
+
 ## Analysis
 **After analyzing the data using Power BI, the following insights were obtained:**
 - The revenue experienced a substantial increase of 112% between 1997 and 1998, primarily due to the strategic expansion of the business into Mexico and Canada.
